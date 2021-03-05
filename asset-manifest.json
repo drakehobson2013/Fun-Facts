@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Fun-Facts/static/css/main.db9da8dd.chunk.css",
+    "main.css": "/Fun-Facts/static/css/main.7693df6b.chunk.css",
     "main.js": "/Fun-Facts/static/js/main.f9e953b2.chunk.js",
     "main.js.map": "/Fun-Facts/static/js/main.f9e953b2.chunk.js.map",
     "runtime-main.js": "/Fun-Facts/static/js/runtime-main.0ae2d040.js",
@@ -12,7 +12,7 @@
     "static/js/3.e5e9001d.chunk.js.map": "/Fun-Facts/static/js/3.e5e9001d.chunk.js.map",
     "index.html": "/Fun-Facts/index.html",
     "static/css/2.150d169a.chunk.css.map": "/Fun-Facts/static/css/2.150d169a.chunk.css.map",
-    "static/css/main.db9da8dd.chunk.css.map": "/Fun-Facts/static/css/main.db9da8dd.chunk.css.map",
+    "static/css/main.7693df6b.chunk.css.map": "/Fun-Facts/static/css/main.7693df6b.chunk.css.map",
     "static/js/2.b9b2c82f.chunk.js.LICENSE.txt": "/Fun-Facts/static/js/2.b9b2c82f.chunk.js.LICENSE.txt",
     "static/media/CutTheNet.7ae218f8.jpg": "/Fun-Facts/static/media/CutTheNet.7ae218f8.jpg",
     "static/media/HomeImg.e76cdccd.jpg": "/Fun-Facts/static/media/HomeImg.e76cdccd.jpg",
@@ -27,7 +27,7 @@
     "static/js/runtime-main.0ae2d040.js",
     "static/css/2.150d169a.chunk.css",
     "static/js/2.b9b2c82f.chunk.js",
-    "static/css/main.db9da8dd.chunk.css",
+    "static/css/main.7693df6b.chunk.css",
     "static/js/main.f9e953b2.chunk.js"
   ]
 }
