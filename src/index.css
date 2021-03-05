@@ -1,13 +1,63 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+    background-image: url(./hoc/Kentucky-nav.png);
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.homeContainer{
+    background: black;
+    border: 1px solid royalblue;
+    box-shadow: 2px 2px 2px 2px white;
+
 }
+
+nav{
+    color: white;
+    background: rgba(0, 0, 0, 0.5);
+}
+
+a.nav-link{
+    color: white;
+    /* background-color: grey; */
+}
+
+.jumbotron{
+    align-items: center;
+    width: 600px;
+    box-shadow: 2px 2px 2px white;
+    
+}
+
+#mumboJumbo{
+background-color: black;
+background: black;
+}
+
+div.jumbotron img.factNumberOne{
+    width: 300px;
+    height: 225px;
+    box-shadow: 2px 2px 2px blue;
+}
+div.jumbotron img.factNumberTwo{
+    width: 300px;
+    height: 225px;
+    box-shadow: 2px 2px 2px blue;
+}
+div.jumbotron img.factNumberThree{
+    width: 300px;
+    height: 225px;
+    box-shadow: 2px 2px 2px blue;
+}
+
+
+
+
+.card{
+    /* width: 600px; */
+    /* margin-left: 600px; */
+    margin-top: 60px;
+    box-shadow: 2px 2px 2px 2px black;
+}
+
+.fact-img-top{
+    height: 340px;
+}
+
